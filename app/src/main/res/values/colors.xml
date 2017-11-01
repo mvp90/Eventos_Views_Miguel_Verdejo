@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Estrellas">#e7ea12</color>
+    <color name="Transparencia">#00000000</color>
+    <color name="Negro">#000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#f5e63c</color>
+    <color name="Rojo">#ea1313</color>
+
+</resources>
